@@ -1,0 +1,3 @@
+model\Agendamento.class
+com\mycompany\bibipetagenda\Bibipetagenda.class
+service\AgendamentoService.class
