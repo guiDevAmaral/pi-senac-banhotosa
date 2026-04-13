@@ -19,6 +19,23 @@ public class Agendamento {
         this.hora = hora;
     }
 
+    public Agendamento() {
+    }
+
+    public void setNomePet(String nomePet) {
+        this.nomePet = nomePet;
+    }
+
+    public void setServico(String servico) {
+        this.servico = servico;
+    }
+
+    public void setHora(int hora) {
+        this.hora = hora;
+    }
+    
+    
+
     // Getters e Setters
     public String getNomePet() { return nomePet; }
     public String getServiço() { return servico; }
